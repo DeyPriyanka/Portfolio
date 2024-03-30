@@ -6,7 +6,7 @@ Later on add some javascript for animation and designing.
 visit the website [here.](https://deypriyanka.github.io/Portfolio/)
 
 
-![ezgif com-optimize]()
+
 
 
 
