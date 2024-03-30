@@ -5,7 +5,7 @@ Later on add some javascript for animation and designing.
 visit the website [here.](https://deypriyanka.github.io/Portfolio/)
 
 
-![ezgif com-optimize](Image/PriyankaPortfolio)
+![ezgif com-optimize](https://ibb.co/qyTZJ2J)
 
 ## Sections:
 💥 About me\
