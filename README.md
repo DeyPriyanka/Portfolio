@@ -1,5 +1,6 @@
 # Interactive-Portfolio 
-## A Resposive and attractive portfolio for Developers 🔥
+
+## OUTPUT
 A clean, beautiful and responsive portfolio templete with using only HTML and css.
 Later on add some javascript for animation and designing.
 visit the website [here.](https://deypriyanka.github.io/Portfolio/)
