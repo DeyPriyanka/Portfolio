@@ -7,8 +7,7 @@ visit the website [here.](https://deypriyanka.github.io/Portfolio/)
 
 
 
-
-![Uploading PriyankaPortfolio.gif…]()
+![PriyankaPortfolio](https://github.com/DeyPriyanka/Portfolio/assets/134927533/9e7c1bda-6336-406f-a6d2-285a354050b2)
 
 
 ## Sections:
